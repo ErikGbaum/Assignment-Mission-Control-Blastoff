@@ -1,0 +1,14 @@
+body 
+{
+    
+    background-color: gray;
+    /* I made the background gray because it will hurt the eyes if just plain white, and im not about to flashbang someone */
+}
+.button
+{
+    background-color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 12px;
+    border-color: gray;
+}
